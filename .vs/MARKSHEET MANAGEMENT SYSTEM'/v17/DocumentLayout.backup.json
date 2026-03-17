@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|d:\\marksheet management system\u0027new\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7766CA-45ED-4192-84BF-6D4DC38835E2}|MARKSHEET MANAGEMENT SYSTEM\u0027.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:12:00.691Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAADwv6UAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:44:38.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAKEAAAAAAQAAAAAqwBQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:48:29.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAAIAAAAAlpmZmZkRwK0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:20:41.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:53:37.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form5.cs [Design]",
+              "RelativeToolTip": "Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:07:06.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main form.cs [Design]",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\main form.cs",
+              "RelativeDocumentMoniker": "main form.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\main form.cs [Design]",
+              "RelativeToolTip": "main form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:51:12.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:37:10.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main form.cs",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\main form.cs",
+              "RelativeDocumentMoniker": "main form.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\main form.cs",
+              "RelativeToolTip": "main form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:29:07.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:25:05.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:13:39.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:44:57.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:31:28.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:13:29.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Print.cs [Design]",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Print.cs",
+              "RelativeDocumentMoniker": "Print.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Print.cs [Design]",
+              "RelativeToolTip": "Print.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:07:04.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Print.cs",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Print.cs",
+              "RelativeDocumentMoniker": "Print.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\Print.cs",
+              "RelativeToolTip": "Print.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:21:27.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\MARKSHEET MANAGEMENT SYSTEM\u0027New\\LoginForm.cs [Design]*",
+              "RelativeToolTip": "LoginForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:31:28.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
